@@ -1,0 +1,20 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+export const ERROR_MESSAGES = "ERROR_MESSAGES"
+
+// search results
+export const SEARCH_RESULTS = "SEARCH_RESULTS";
+export const SEARCH_REQUEST = "SEARCH_REQUEST";
+
+export const RECEIVE_REVIEWS = "RECEIVE_REVIEWS";
+export const RECEIVE_WEBSITE_INFO = "RECEIVE_WEBSITE_INFO";
+
+export const REDIRECT_TO = "REDIRECT_TO";
+export const CANCLE_REDIRECT = "CANDLE_REDIRECT";

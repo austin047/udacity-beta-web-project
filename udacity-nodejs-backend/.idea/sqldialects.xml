@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/migrations/sqls/20220812175645-add-users-down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/migrations/sqls/20220812175645-add-users-up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/migrations/sqls/20220812175650-add-websites-up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/init.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/database/queries/reviews.queries.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/database/queries/users.queries.ts" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/database/queries/website.queries.ts" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/migrations/sqls/20220812175655-add-reviews-up.sql" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+CREATE DATABASE dev_website_review;
+CREATE DATABASE test_website_review;
